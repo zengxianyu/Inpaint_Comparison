@@ -1,4 +1,4 @@
-# Hard Examples
+### Hard Examples
 
 
 
@@ -63,4 +63,27 @@
 <img src='v2/72.png' align="middle" width=1080>
 
 
-# Easy Examples
+### Easy Examples
+
+<pre class="tab">               Input                              HiFill                              ProFill</pre>
+
+<img src='v1/1.png' align="middle" width=1080>
+<img src='v1/3.png' align="middle" width=1080>
+<img src='v1/4.png' align="middle" width=1080>
+<img src='v1/6.png' align="middle" width=1080>
+<img src='v1/7.png' align="middle" width=1080>
+<img src='v1/8.png' align="middle" width=1080>
+<img src='v1/11.png' align="middle" width=1080>
+<img src='v1/12.png' align="middle" width=1080>
+<img src='v1/13.png' align="middle" width=1080>
+<img src='v1/14.png' align="middle" width=1080>
+<img src='v1/15.png' align="middle" width=1080>
+<img src='v1/17.png' align="middle" width=1080>
+<img src='v1/18.png' align="middle" width=1080>
+<img src='v1/19.png' align="middle" width=1080>
+<img src='v1/20.png' align="middle" width=1080>
+
+
+
+
+
