@@ -2,7 +2,7 @@
 
 
 
-<pre class="tab">               Input                              HiFill                              ProFill</pre>
+<pre class="tab">               <b>Input</b>                              HiFill                              ProFill</pre>
 
 <img src='v2/0.png' align="middle" width=1080>
 <img src='v2/1.png' align="middle" width=1080>
