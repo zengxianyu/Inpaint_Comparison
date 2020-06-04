@@ -1,5 +1,6 @@
 # Hard Examples
 
+Input   HiFill  ProFill
 
 <img src='v2/1.png' align="middle" width=1080>
 <img src='v2/2.png' align="middle" width=1080>
