@@ -2,7 +2,7 @@
 
 
 
-<pre class="tab">               <b>Input</b>                              HiFill                              ProFill</pre>
+<pre class="tab">               <b>Input</b>                              <b>HiFill</b>                               <b>ProFill</b> </pre>
 
 <img src='v2/0.png' align="middle" width=1080>
 <img src='v2/1.png' align="middle" width=1080>
@@ -65,8 +65,7 @@
 
 
 ### Easy Examples
-
-<pre class="tab">               Input                              HiFill                              ProFill</pre>
+<pre class="tab">               <b>Input</b>                              <b>HiFill</b>                               <b>ProFill</b> </pre>
 
 <img src='v1/1.png' align="middle" width=1080>
 <img src='v1/3.png' align="middle" width=1080>
